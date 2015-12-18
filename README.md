@@ -30,3 +30,5 @@
 
 ##感谢
 感谢开源项目[TQStarRatingView](https://github.com/TinyQ/TQStarRatingView)的作者[TinyQ](https://github.com/TinyQ)。
+
+博客: [http://www.liuchendi.com](http://www.liuchendi.com)
